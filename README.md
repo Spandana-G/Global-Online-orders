@@ -16,6 +16,8 @@ This Power BI dashboard provides real-time insights into sales performance, orde
 5️.Publishing – Deploy to Power BI Service & enable sharing.                                        
 6️.Optimization – Improve performance and ensure data updates.Data Cleaning – Remove errors, format data, and create relationships. 
 ## Dashboard 
+![Screenshot 2025-03-08 141342](https://github.com/user-attachments/assets/53ee1cf7-d87a-4d44-a223-7f45bb40b5c9)
+
 
 
 

@@ -12,6 +12,8 @@ This Power BI dashboard provides real-time insights into sales performance, orde
 3️.Data Modeling – Define schema and establish key relationships.                                              
 4️.Visualization – Create interactive charts, KPIs, and filters.                                        
 5️.Publishing – Deploy to Power BI Service & enable sharing.                                        
-6️.Optimization – Improve performance and ensure data updates.Data Cleaning – Remove errors, format data, and create relationships.                                       
+6️.Optimization – Improve performance and ensure data updates.Data Cleaning – Remove errors, format data, and create relationships. 
+## Dataset
+- <a'https://github.com/Spandana-G/Global-Online-orders/blob/main/orders_frostonline.xlsx'> Dataset </a>
 
 

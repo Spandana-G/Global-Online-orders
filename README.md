@@ -6,6 +6,8 @@ This Power BI dashboard provides real-time insights into sales performance, orde
 3.Identify trends & top-selling products for data-driven decisions.                                                                
 4.Enhance operational efficiency by analyzing order fulfillment.                                                                 
 5️.Enable interactive reporting for real-time business insights. 
+## Dataset
+- <a href="https://github.com/Spandana-G/Global-Online-orders/blob/main/orders_frostonline.xlsx"> Dataset </a>
 ## Process
 1.Data Import – Load data from Excel, SQL, or APIs.                                   
 2.Data Cleaning – Remove errors, format data, and create relationships.                                                                        
@@ -13,7 +15,7 @@ This Power BI dashboard provides real-time insights into sales performance, orde
 4️.Visualization – Create interactive charts, KPIs, and filters.                                        
 5️.Publishing – Deploy to Power BI Service & enable sharing.                                        
 6️.Optimization – Improve performance and ensure data updates.Data Cleaning – Remove errors, format data, and create relationships. 
-## Dataset
-- <a'https://github.com/Spandana-G/Global-Online-orders/blob/main/orders_frostonline.xlsx'> Dataset </a>
+## Dashboard 
+
 
 
